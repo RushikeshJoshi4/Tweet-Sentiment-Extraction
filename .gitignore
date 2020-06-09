@@ -1,4 +1,11 @@
-./*
-!notebooks/*
+tweet-sentiment-extraction.zip
+tmp/*
+input/*
+tweet-sentiment-extraction/*
+notebooks/*.pth
+notebooks/*.pt
+notebooks/*.txt
+notebooks/*.csv
+notebooks/.*
+!input/.gitkeep
 !tweet-sentiment-extraction/.gitkeep
-!.gitignore
