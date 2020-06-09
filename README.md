@@ -4,7 +4,7 @@
 ## Data:
 Download from kaggle website and paste the csv files into the tweet-sentiment-extraction folder.
 
-##To make the bert notebook work:
+## To make the bert notebook work:
 Go to https://huggingface.co/roberta-base
 Download these the files (using curl or something equivalent) and paste them into input folder - 
   
