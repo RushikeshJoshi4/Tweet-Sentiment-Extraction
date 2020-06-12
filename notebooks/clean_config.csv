@@ -1,6 +1,10 @@
 notebook,SAVE_OUTPUT
 SAMPLE_NB_NAME,1
-Tweet Sentiment RoBERTa PyTorch exp2 finetune roberta bce.ipynb,1
 Tweet Sentiment RoBERTa PyTorch exp1 finetune roberta.ipynb,1
 LSTM_exp1.ipynb,1
 LSTM_exp2.ipynb,1
+Tweet Sentiment RoBERTa PyTorch exp2 finetune roberta bce.ipynb, 1
+Tweet Sentiment RoBERTa PyTorch exp2 finetune roberta dice.ipynb, 1
+Tweet Sentiment RoBERTa PyTorch exp2 finetune roberta iou.ipynb, 1
+Tweet Sentiment RoBERTa PyTorch exp2 finetune roberta lovasz.ipynb, 1
+Tweet Sentiment RoBERTa PyTorch exp3 finetune roberta bce.ipynb, 1
